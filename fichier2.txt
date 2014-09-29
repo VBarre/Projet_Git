@@ -7,5 +7,7 @@ Le fichier famille doit contenir
 * adresse
 * code postal
 * ville
+* Tel
+* Port
 * mail
 
