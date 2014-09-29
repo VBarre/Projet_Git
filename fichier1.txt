@@ -1,0 +1,4 @@
+
+Objectif du projet : 
+Réaliser un logciel de gestion de ludothèque contenant la gestion des jeux, des familles et des emprunteurs. 
+
