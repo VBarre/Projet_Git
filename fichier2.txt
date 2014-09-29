@@ -1,0 +1,11 @@
+Un autre fichier qui présente le détail des familles. 
+
+Le fichier famille doit contenir 
+* identifiant
+* nom 
+* prénom
+* adresse
+* code postal
+* ville
+* mail
+
